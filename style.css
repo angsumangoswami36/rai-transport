@@ -76,9 +76,9 @@ header {
     background-color: #e05b30;
 }
 
-/* Hero Section */
+/* Hero Section with rai.png background */
 .hero {
-    background: linear-gradient(rgba(30, 61, 89, 0.85), rgba(30, 61, 89, 0.85)), url('https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80') no-repeat center center/cover;
+    background: linear-gradient(rgba(30, 61, 89, 0.85), rgba(30, 61, 89, 0.85)), url('rai.png') no-repeat center center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
